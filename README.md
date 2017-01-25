@@ -1,2 +1,0 @@
-# peripeteia
-Peripeteia's website
