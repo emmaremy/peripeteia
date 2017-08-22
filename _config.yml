@@ -1,0 +1,4 @@
+name: Peripeteia
+markdown: kramdown
+
+permalink: /posts/:year/:month/:day/:title
