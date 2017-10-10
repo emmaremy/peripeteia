@@ -20,3 +20,4 @@ Sponsored by Peace and Conflict Studies, the Provost's Office, and the Lang Cent
 Marcus Rediker, University of Pittsburgh\\
 James A. Field Lecture\\
 Wednesday, October 11, 4:30 pm - 6:30 pm, Kohlberg - Scheuer Room
+
