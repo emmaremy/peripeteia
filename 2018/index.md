@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peripeteia 2018
-------
+---
 
 ## Friday, January 26th, 2018
 
