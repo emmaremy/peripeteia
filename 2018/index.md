@@ -3,33 +3,33 @@ layout: default
 title: Peripeteia 2018
 ------
 
-### Friday, January 26th, 2018
+## Friday, January 26th, 2018
 
-**Shiver My Timbers' to 'Stormalong' | 4-6p | Sci 145**
+### Shiver My Timbers' to 'Stormalong' | 4-6p | Sci 145
 
 _A look at sea shanties, both new and old_
 
 This class will look at the history surrounding British/American sea songs and shanties, as well as some context for the Age of Sail and naval culture at its height. We'll listen to examples, discuss what makes them effective ( or not! ), and try our hand at writing new lyrics to classic songs.
 
 
-**Slang and Space: A Conversation in Color | 7p - 8:30p | Sci 102**
+### Slang and Space: A Conversation in Color | 7p - 8:30p | Sci 102
 
 _Ya tu sabes fam, we’re deadass gonna talk about slang!_
 
 Can identity groups coin certain phrases? If so, are there exceptions to this rule? Can identity groups appropriate other’s slang? Slang and Space is a discussion-based course where participants will discuss the intersectionality of their backgrounds in relation to slang. We will talk about how factors like race, geography, socioeconomic status, and gender inform our claim on colloquialism. We will also define what constitutes appropriation and discuss its linguistic parameters.
 
 
-**Video Editing for People Who Aren't Filmmakers | 7p - 9:30p | Beardsley 114, Media Center**
+### Video Editing for People Who Aren't Filmmakers | 7p - 9:30p | Beardsley 114, Media Center
 
 _Be prepared...when the time comes_
 
 Sometimes you have to make a film for a class or outside project. Sometimes you aren't a filmmaker and you don't know what you're doing. This class will provide you with the basics so you can edit like a pro even though you aren't one. This is a 2.5 hour course that will cover important editing tricks and techniques. We will be using Adobe Premiere Pro (available on most campus Macs) to explore assembly, basic color correction, noise or hum reduction in sound, stabilization, and more. Be prepared to handle the worst and have fun with video editing when the time comes.
 
 
-### Saturday, January 27th, 2018
+## Saturday, January 27th, 2018
 
 
-**Writing My Story | 10a - 11:30a | Sci 104**
+### Writing My Story | 10a - 11:30a | Sci 104
 
 _Reflect and connect with other Storytellers_
 
@@ -38,35 +38,35 @@ This workshop will provide fun ideas and exercises on how to begin writing a per
 (Having a topic/memory in mind to write about is encouraged, but not required.)
 
 
-**Enneagram 101 | 11:30p - 12:30p | Sci 145**
+### Enneagram 101 | 11:30p - 12:30p | Sci 145
 
 _Learning about yourself through the 9 personality types_
 
 The enneagram is a system of personality typology that we can use to learn about ourselves and our relationships. This course is an introduction to the basics of the enneagram system: the 9 types and the relationships between the types.
 
 
-**Ordering Loss: Poems of Mourning | 11:30a 12:30p | Sci 105**
+### Ordering Loss: Poems of Mourning | 11:30a 12:30p | Sci 105
 
 _Can we write sense into absence?_
 
 Look at a set of poems of mourning to think about how we use writing to force order onto loss. We'll look at both form and content and think about why we might want to write these sorts of poems.
 
 
-**Reading the Tarot: History and Interpretation | 12:30p - 2:00p | Sci 102**
+### Reading the Tarot: History and Interpretation | 12:30p - 2:00p | Sci 102
 
 _First a bit of a lecture, then readings for those who want one. Bring your deck if you have one!_
 
 Sibelan Forrester has been reading Tarot cards since she was 19 years old. The cards (which developed from the same decks that evolved into modern playing cards, still used for fortune telling in many places) have a fascinating history and today are represented by a huge variety of decks, some more traditional and some more inventive. This course will begin with a discussion of the history and tradition, then participants will have a chance to have their cards read as examples of how it might be done. Bring your own cards if you have some!
 
 
-**Bananas - Natures Adderall | 1:00 - 1:30p | Sci 101**
+### Bananas - Natures Adderall | 1:00 - 1:30p | Sci 101
 
 _Do you know much potassium you need in a day?_
 
 The cells in our body communicate through ion channels. Can we take advantage of these ion channels to have cells that communicate more effectively and efficiently? Other topics include other dietary choices to hack aspects of life. 
 
 
-**La identidad: chilena, mapuche, Bryan | 1:30p - 2:30p | Sci 158**
+### La identidad: chilena, mapuche, Bryan | 1:30p - 2:30p | Sci 158
 
 _identity politics in Chile and beyond_
 
@@ -75,40 +75,40 @@ En este curso, yo hablare sobre la cuestion de la identidad nacional chilena y c
 (Course will be given in Spanish)
 
 
-**Remember You Will Die: A Death Talk  | 2:15p - 3:15p | Sci 102**
+### Remember You Will Die: A Death Talk  | 2:15p - 3:15p | Sci 102
 
 _Reflect on your mortality and the mortality of all of those that you love_
 
 In the United States, death is a multi-billion dollar industry. The average cost for a funeral is over 7,000 dollars and this number can increase quickly with other additions like flowers and burial plots. High costs and lack of information lead to large numbers of families across the United States going broke trying to give their family members the funeral they deserve. In this course, we are going to explore different aspects of the American death industry, the impacts that the industry has, and how American death culture compares to other cultures globally.
 
-**Everyone Doodles | 2:30p - 3:30p | Sci 145**
+### Everyone Doodles | 2:30p - 3:30p | Sci 145
 
 _A Course About Doodling_
 
 This course is about the value of doodling and how anyone can (and should) do it. We will introduce different methods and ways that people doodle and encourage experimentation. Instruction on ways to draw and doodle will be available for those interested, but the focus is on enjoying the process of doodling.
 
 
-**So you want to lead a student run course | 3:30p - 4: 30p | Sci 102**
+### So you want to lead a student run course | 3:30p - 4: 30p | Sci 102
 
 _Learn the ins and outs of how to run a student run course at Swarthmore._
 
 In this session, we’ll talk about how to navigate administration, her and advisor and build your syllabus for you student run course. 
 
 
-**Political History of Delaware County | 3:30p - 4:00p | Sci 101**
+### Political History of Delaware County | 3:30p - 4:00p | Sci 101
 
 _How Republicans Ruled Suburbia_
 
 The Delaware County Council has been entirely Republican for 100 years. The City of Chester, the poorest City in Pennsylvania and nearly three quarters black, had a Republican Mayor until 2012. Many consider the congressional districts that cut through the county and create a bewildering Rorschach the most gerrymandered in the United States. Lying behind all of this is the Swarthmore alumni and convicted racketeer John McClure, who Nixon visited at his home in 1960 to pay tribute, and the Republican Machine that has a had a grip on Delco since before World War I.
 
 
-**What is BDSM? | 4:30p - 5:30p | Sci 158**
+### What is BDSM? | 4:30p - 5:30p | Sci 158
 
 _A complete introductory course to BDSM_
 
 What does BDSM stand for? Is it a new dorm or another student position? Something more? If you’ve ever been curious about kink, BDSM terminology, or what a member of the BDSM community does, then come by and ask all the questions.
 
-**Drowning Twins, Runaway Trolleys, and Choosing your Major | 7:00p - 8:30p | Sci 158**
+### Drowning Twins, Runaway Trolleys, and Choosing your Major | 7:00p - 8:30p | Sci 158
 
 _On Hard Choices and Moral Dilemmas_
 
@@ -116,37 +116,37 @@ This course is about hard choices and moral dilemmas. Can there be situations wh
 
 
 
-### Sunday, January 28, 2018
+## Sunday, January 28, 2018
 
-**Glass Etching + Fusing | 10a - 11a | Sci 158**
+### Glass Etching + Fusing | 10a - 11a | Sci 158
 
 _Make your own fused glass necklace or keychain!_
 
 You'll learn a little bit about glass fusing, dichroic glass, and engraving, and then have time to work on a piece of your own! 
 
 
-**Trash Talking | 11a - 12p | Sci 158**
+### Trash Talking | 11a - 12p | Sci 158
 
 _Trash and compost and recycling talking actually_
 
 We spent the last semester reading trashy books and we want to share what we've learned! Some questions we'll try to answer -- How much do those new waste bins in the dorms cost? What if everything we used, from our backpacks to our phones to our slippers, were food? Does what you put in the recycling really get recycled? Please, please come, this is something we actually care a lot about, and we want to show you why! We'll even end with a hands-on activity with clean trash we've collected around campus! Yes, we actually went around doing that…
 
 
-**Intro to Vim - A Flexible Text Editor | TBD | TBD**
+### Intro to Vim - A Flexible Text Editor | TBD | TBD
 
 _Learn how to write/type/code quickly with Vim!_
 
 Vim is a popular text editor that lets you quickly write and edit code, all without a mouse! This course is an interactive introduction on how to use and customize Vim. This course is for you if: you've never opened a terminal before, you're just starting CS21, you're curious about the secret life of hackers, you've dabbled in Vim but want to learn more, you love Vim have some cool tips and tricks to share. Bring a computer if you can, otherwise you can use mine! 
 
 
-**Pricing Carbon at Swat and Beyond | 1p - 2:30p | Sci 158**
+### Pricing Carbon at Swat and Beyond | 1p - 2:30p | Sci 158
 
 _Effective decarbonization policy and how you can advance it._
 
 We urgently need to decarbonize the global economy to avoid the worst impacts of the climate crisis. Unfortunately, designing and passing policy to transform our electric, heating, industrial, food, and transportation systems can be… a bit challenging. We’ll explore how carbon prices can be fair, effective, and feasible policy solutions in the US, Swarthmore’s role in the national conversation about carbon pricing, and how you can plug in to advance climate solutions. 
 
 
-**Introduction to Knots | 2:30p - 4:30p | Sci 104**
+### Introduction to Knots | 2:30p - 4:30p | Sci 104
 
 _A practical course on how to tie knots_
 
