@@ -5,7 +5,7 @@ title: Peripeteia 2018
 
 ## Friday, January 26th, 2018
 
-### Shiver My Timbers' to 'Stormalong' | 4-5p | Sci 145
+### Shiver My Timbers' to 'Stormalong' | 6-7p | Sci 145
 
 _A look at sea shanties, both new and old_
 
