@@ -124,6 +124,8 @@ _Make your own fused glass necklace or keychain!_
 
 You'll learn a little bit about glass fusing, dichroic glass, and engraving, and then have time to work on a piece of your own! 
 
+(Attendance of this course is limited by materials to the first 7 people to arrive.)
+
 
 ### Trash Talking | 11a - 12p | Sci 158
 
