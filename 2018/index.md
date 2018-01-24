@@ -49,7 +49,7 @@ _Learning about yourself through the 9 personality types_
 The enneagram is a system of personality typology that we can use to learn about ourselves and our relationships. This course is an introduction to the basics of the enneagram system: the 9 types and the relationships between the types.
 
 
-### Ordering Loss: Poems of Mourning | 11:30a 12:30p | Sci 105 | Tristan Beiter
+### Ordering Loss: Poems of Mourning | 11:30a - 12:30p | Sci 105 | Tristan Beiter
 
 _Can we write sense into absence?_
 
