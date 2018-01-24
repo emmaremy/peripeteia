@@ -5,7 +5,7 @@ title: Peripeteia 2018
 
 ## Friday, January 26th, 2018
 
-### Shiver My Timbers' to 'Stormalong' | 6-7p | Sci 145
+### Shiver My Timbers' to 'Stormalong' | 6p - 7p | Sci 145
 
 _A look at sea shanties, both new and old_
 
@@ -134,7 +134,7 @@ _Trash and compost and recycling talking actually_
 We spent the last semester reading trashy books and we want to share what we've learned! Some questions we'll try to answer -- How much do those new waste bins in the dorms cost? What if everything we used, from our backpacks to our phones to our slippers, were food? Does what you put in the recycling really get recycled? Please, please come, this is something we actually care a lot about, and we want to show you why! We'll even end with a hands-on activity with clean trash we've collected around campus! Yes, we actually went around doing that…
 
 
-### Intro to Vim - A Flexible Text Editor | 1p-2p | McCabe 306
+### Intro to Vim - A Flexible Text Editor | 1p - 2p | McCabe 306
 
 _Learn how to write/type/code quickly with Vim!_
 
