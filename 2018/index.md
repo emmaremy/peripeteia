@@ -158,6 +158,21 @@ _A practical course on how to tie knots_
 
 Learn the basics of knot tying, including classification, terminology, and, of course, how to tie several different knots. This course is beginner friendly and will provide practice rope.
 
+### The Biochemistry of Baking | 3p - 4p | Lang Center for Civic & Social Responsibility Kitchen | Therese Ton
+
+_Join Therese Ton, Head Baker & Owner of Toscah Bakery_
+
+Learn how the protein structure of egg whites and chickpeas allow us to make meringue based strawberry shortcake cupcakes. Vegan gluten free options are available!
+
+
+### Behind the Scenes, On the Surface | 3:30p - 4:30p | Sci 102 | Jasmine Jimenez
+
+_a crash course on <conspiracy theories>_
+
+This course will be a free-form lecture on the latest trends of the "truth movement.” Truthers of all levels and kinds welcome. The discussion will touch upon the most recent developments in Truther journalism, theology and historiography. This will not be comprehensive of all commentary or investigation on the internet (much less the world) but rather a brief exposition of some rather compelling conclusions!
+
+(Please note this course will cover sensitive material like blood and aliens)
+
 ### Closing event | 5p - 6p | Sci L32 | Peripeteia
 
 Come close out Peripeteia Weekend with the team on the bottom floor of Science Center.
