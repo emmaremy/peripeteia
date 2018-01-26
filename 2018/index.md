@@ -56,7 +56,7 @@ _Can we write sense into absence?_
 Look at a set of poems of mourning to think about how we use writing to force order onto loss. We'll look at both form and content and think about why we might want to write these sorts of poems.
 
 
-### Reading the Tarot: History and Interpretation | 12:30p - 2:00p | Sci 102 | Sibelan Foster
+### Reading the Tarot: History and Interpretation | 12:30p - 2:00p | Sci 102 | Sibelan Forrester
 
 _First a bit of a lecture, then readings for those who want one. Bring your deck if you have one!_
 
@@ -92,19 +92,19 @@ _A Course About Doodling_
 This course is about the value of doodling and how anyone can (and should) do it. We will introduce different methods and ways that people doodle and encourage experimentation. Instruction on ways to draw and doodle will be available for those interested, but the focus is on enjoying the process of doodling.
 
 
-### So you want to lead a student run course | 3:30p - 4: 30p | Sci 102 | Christopher Malafronti 
-
-_Learn the ins and outs of how to run a student run course at Swarthmore._
-
-In this session, we’ll talk about how to navigate administration, her and advisor and build your syllabus for you student run course. 
-
-
 ### Political History of Delaware County | 3:30p - 4:00p | Sci 101 | Anthony Joseph Mariani
 
 _How Republicans Ruled Suburbia_
 
 The Delaware County Council has been entirely Republican for 100 years. The City of Chester, the poorest City in Pennsylvania and nearly three quarters black, had a Republican Mayor until 2012. Many consider the congressional districts that cut through the county and create a bewildering Rorschach the most gerrymandered in the United States. Lying behind all of this is the Swarthmore alumni and convicted racketeer John McClure, who Nixon visited at his home in 1960 to pay tribute, and the Republican Machine that has a had a grip on Delco since before World War I.
 
+### Behind the Scenes, On the Surface | 4p - 5p | Sci 102 | Jasmine Jimenez
+
+_a crash course on <conspiracy theories>_
+
+This course will be a free-form lecture on the latest trends of the "truth movement.” Truthers of all levels and kinds welcome. The discussion will touch upon the most recent developments in Truther journalism, theology and historiography. This will not be comprehensive of all commentary or investigation on the internet (much less the world) but rather a brief exposition of some rather compelling conclusions!
+
+(Please note this course will cover sensitive material like blood and aliens)
 
 ### What is BDSM? | 4:30p - 5:30p | Sci 158 | Amanda Lee
 
@@ -165,13 +165,11 @@ _Join Therese Ton, Head Baker & Owner of Toscah Bakery_
 Learn how the protein structure of egg whites and chickpeas allow us to make meringue based strawberry shortcake cupcakes. Vegan gluten free options are available!
 
 
-### Behind the Scenes, On the Surface | 3:30p - 4:30p | Sci 102 | Jasmine Jimenez
+### So you want to lead a student run course | 3:30p - 4: 30p | Sci 102 | Christopher Malafronti 
 
-_a crash course on <conspiracy theories>_
+_Learn the ins and outs of how to run a student run course at Swarthmore._
 
-This course will be a free-form lecture on the latest trends of the "truth movement.” Truthers of all levels and kinds welcome. The discussion will touch upon the most recent developments in Truther journalism, theology and historiography. This will not be comprehensive of all commentary or investigation on the internet (much less the world) but rather a brief exposition of some rather compelling conclusions!
-
-(Please note this course will cover sensitive material like blood and aliens)
+In this session, we’ll talk about how to navigate administration, her and advisor and build your syllabus for you student run course. 
 
 ### Closing event | 5p - 6p | Sci L32 | Peripeteia
 
