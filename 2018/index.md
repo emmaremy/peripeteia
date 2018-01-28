@@ -158,7 +158,7 @@ _A practical course on how to tie knots_
 
 Learn the basics of knot tying, including classification, terminology, and, of course, how to tie several different knots. This course is beginner friendly and will provide practice rope.
 
-### The Biochemistry of Baking | 3p - 4p | Lang Center for Civic & Social Responsibility Kitchen | Therese Ton
+### The Biochemistry of Baking | 4p - 5p | Lang Center for Civic & Social Responsibility Kitchen | Therese Ton
 
 _Join Therese Ton, Head Baker & Owner of Toscah Bakery_
 
