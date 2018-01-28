@@ -158,18 +158,18 @@ _A practical course on how to tie knots_
 
 Learn the basics of knot tying, including classification, terminology, and, of course, how to tie several different knots. This course is beginner friendly and will provide practice rope.
 
+### So you want to lead a student run course | 3:30p - 4: 30p | Sci 102 | Christopher Malafronti 
+
+_Learn the ins and outs of how to run a student run course at Swarthmore._
+
+In this session, we’ll talk about how to navigate administration, her and advisor and build your syllabus for you student run course. 
+
 ### The Biochemistry of Baking | 4p - 5p | Lang Center for Civic & Social Responsibility Kitchen | Therese Ton
 
 _Join Therese Ton, Head Baker & Owner of Toscah Bakery_
 
 Learn how the protein structure of egg whites and chickpeas allow us to make meringue based strawberry shortcake cupcakes. Vegan gluten free options are available!
 
-
-### So you want to lead a student run course | 3:30p - 4: 30p | Sci 102 | Christopher Malafronti 
-
-_Learn the ins and outs of how to run a student run course at Swarthmore._
-
-In this session, we’ll talk about how to navigate administration, her and advisor and build your syllabus for you student run course. 
 
 ### Closing event | 5p - 6p | Sci L32 | Peripeteia
 
