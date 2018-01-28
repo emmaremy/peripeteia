@@ -122,7 +122,7 @@ This course is about hard choices and moral dilemmas. Can there be situations wh
 
 ## Sunday, January 28, 2018
 
-### Glass Etching + Fusing | 10a - 11a | Sci 158 | Alison Rosenzweig
+### Glass Etching + Fusing | 10a - 11a | Sci 145 | Alison Rosenzweig
 
 _Make your own fused glass necklace or keychain!_
 
